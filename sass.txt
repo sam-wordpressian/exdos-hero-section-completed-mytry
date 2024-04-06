@@ -1,0 +1,1 @@
+sass --watch "D:\weblearn\module5\hero section mytry\assets\scss\main.scss":"D:\weblearn\module5\hero section mytry\assets\css\style.css"
